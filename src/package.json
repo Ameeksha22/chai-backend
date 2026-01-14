@@ -14,8 +14,7 @@
   ],
   "author": "ameeksha",
   "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^3.1.11",
-    "prettier": "^3.7.4"
+  "dependencies": {
+    "nodemon": "^3.1.11"
   }
 }
